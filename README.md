@@ -1,6 +1,6 @@
 # Welcome to Project Manatee!
 
-*"Transformation isn't a future event, it's a present day event."*
+*"Transformation isn't a future event, it's a present day event."* - Jillian Michaels
 
 ## Week 1: Getting Started
 
