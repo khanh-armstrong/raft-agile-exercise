@@ -1,6 +1,6 @@
 # Welcome to Project Manatee!
 
-*"Transformation isn't a future event, it's a present day event."* - Jillian Michaels
+*"Transformation isn't a future event, it's a present day activity."* - Jillian Michaels
 
 ## Week 1: Getting Started
 
@@ -29,9 +29,9 @@ Participants: Everyone involved with the project
 - Background on project 
 - Vision and Problem Statement
 - Desired Outcomes & Definition of Success
-- Team Organization
 - Development Approach - Agile Scrum
-- Agile Ceremonies & Meetings
+- Team Organization & Processes
+- Technical Architecture Overview
 - Tools & Collaboration
 - Roadmap  
 - Next Steps 
@@ -44,9 +44,10 @@ Participants: Product Manager, Technical Lead, Frontend Dev, Backend Dev, Design
 
 Agenda:
 
-- Introductions 
+- Team bonding / get to know each other
 - Review and discuss team organization and work structure
 - Review shared artifacts and documentation at a high-level
+- Technical stack understanding
 - Deep dive into roadmap
 - Intake questions from team
 - Define team values and agreements
@@ -60,7 +61,9 @@ Possible Activities:
 - Review documentation and shared artifacts
 - Define UX Strategy; if needed, plan on conducting additional supporting user research or validation
 - Begin Release planning
+- Create Defition of Done
 - Create backlog items - Epics, Features, User Stories
+- Define Research or Technical Spikes and Enablers
 
 
 ## Development Approach
@@ -68,7 +71,7 @@ We will be using User-Centered Design and Agile Scrum methodologies in this proj
 
 The following are standing ceremonies for the project team:
 
-### Backlog Refinement
+### Backlog Refinement 
   - Duration & Frequency: 60 minutes, 1x per week
   - Participants: Product Manager, Product Owner, Tech Lead (as needed), Design Lead (as needed)
   - Goal: Keep the backlog updated and work towards defining tasks and user stories for the next 2 sprints
@@ -82,7 +85,7 @@ The following are standing ceremonies for the project team:
     * Note: impediments should be raised immediately as they arise, outside of daily standups
 
 ### Sprint Planning
-  - Duration & Frequency: 90 minutes (varies), at the start of every sprint
+  - Duration & Frequency: 90 minutes (varies) - could be multiple sessions within one day, at the start of every sprint
   - Participants: Product Manager, Product Owner, Technical Lead, Frontend Dev, Backend Dev, Design Lead, UX Researcher, Content Strategist
   - Goal: plan the sprint backlog for the next 2 weeks based on available capacity, refine and estimate user stories
   - Outcome: prioritized sprint backlog, capacity plan, refined and pointed user stories (estimated with points), team agreement on sprint commitments
@@ -100,7 +103,7 @@ The following are standing ceremonies for the project team:
   - Outcome: feedback, high-level acceptance of user stories**
   * Note: user stories still needs to meet definition of done to be considered "Done"
  
-## Additional Team Meetings
+### Additional Team Meetings
  - Adhoc working sessions
  - User research and validation findings read-out (everyone is encouraged to attend)
 
@@ -108,6 +111,9 @@ The following are standing ceremonies for the project team:
 ## Team Agreements
 *To be added when team agreements are defined.*
  - Consider dedicated heads-down time
+ 
+ ## Defition of Done
+ *To be added when team agreements are defined.*
 
 ## Tools & Collaboration
 
