@@ -1,4 +1,4 @@
-# Welcome to Project Manatee!
+# Welcome to Project Chrysalis!
 
 *"Transformation isn't a future event, it's a present day activity."* - Jillian Michaels
 
