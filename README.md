@@ -113,7 +113,28 @@ The following are standing ceremonies for the project team:
  - Consider dedicated heads-down time
  
  ## Defition of Done
- *To be added when team agreements are defined.*
+ *To be finalized when team has reviewed and agreed on standards.*
+ 
+ ### User Stories DoD
+Baseline:
+ - Code has been reviewed 
+ - Code coverage of 90%
+ - Unit tests passed
+ - UX has verified implementation
+ - Acceptance criteria have passed
+ - Non-functional requirements met
+ 
+ ### Epics DoD
+ Baseline:
+- Acceptance criteria met
+- Integrated into a clean build
+- Promoted to higher level environment
+- Automated regression tests pass
+- Feature level functional tests passed
+- Non-Functional requirements met
+- Meets compliance requirements
+- UX validated flow of features
+- Functionality documented in necessary user user documentation
 
 ## Tools & Collaboration
 
