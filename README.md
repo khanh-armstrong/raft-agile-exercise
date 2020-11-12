@@ -1,4 +1,5 @@
 # Welcome to Project Chrysalis!
+An Agile exercise by Khanh Armstrong
 
 *"Transformation isn't a future event, it's a present day activity."* - Jillian Michaels
 
