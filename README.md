@@ -105,8 +105,7 @@ The following are standing ceremonies for the project team:
  
 ### Additional Team Meetings
  - Adhoc working sessions
- - User research and validation findings read-out (everyone is encouraged to attend)
-
+ - User research and validation findings read-out (everyone is encouraged to attend) 
 
 ## Team Agreements
 *To be added when team agreements are defined.*
