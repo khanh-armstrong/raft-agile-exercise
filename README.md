@@ -120,10 +120,10 @@ The following are standing ceremonies for the project team:
 We are defaulting to open source technologies as much as possible.
 
 Some of the tools we'll be using for collaboration:
-- Backlog and progress tracker: Zenhub <link>
-- Virtual whiteboard: Miro <link>
-- Design: XD, Sketch, Balsamiq, Miro
-- Communication: Slack, email
+- Backlog and progress tracker: Zenhub (plugin with Chrome)
+- Virtual whiteboard: Miro or other
+- Design: XD, Sketch, Balsamiq, InVision or others
+- Communication: Slack, email, and others
 
 ### Onboarding
-If you are on the team, please make sure to reach out to khanh.armstrong@email.com for the onboarding checklist! 
+If you are new the team, please make sure to reach out to khanh.armstrong@email.com for the onboarding checklist! 
