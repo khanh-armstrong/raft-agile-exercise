@@ -93,8 +93,8 @@ The following are standing ceremonies for the project team:
 ### Sprint Retrospective
   - Duration & Frequency: 60 minutes, towards the end of the sprint
   - Participants: Product Manager, Product Owner, Technical Lead, Frontend Dev, Backend Dev, Design Lead, UX Researcher, Content Strategist
-  - Goal: plan the sprint backlog for the next 2 weeks based on available capacity, refine and estimate user stories
-  - Outcome: prioritized sprint backlog, capacity plan, refined and pointed user stories (estimated with points), team agreement on sprint objectives and commitments
+  - Goal: open discussion on lessons learned from completed sprint, identify things that help us moves faster or slower, select a few things to improve for next sprint
+  - Outcome: retrospective artifact, action items to improve for upcoming sprint
   
 ### Sprint Demo
   - Duration & Frequency: 60 minutes (varies), at the end of the sprint
